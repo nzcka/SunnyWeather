@@ -1,4 +1,4 @@
-n       package com.example.sunnyweather
+package com.example.sunnyweather
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
